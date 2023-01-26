@@ -11,3 +11,5 @@ public class Main
         System.out.println("\nThe file was last modified on: "+date+"\n");     
      }
 }
+//Output:
+//The file was last modified on: Sun Aug 02 22:53:24 IST 2020
