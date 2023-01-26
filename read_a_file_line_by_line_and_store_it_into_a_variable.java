@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.FileReader;
  
-public class ArjunPinpoint
+public class ArjKeys
 { 
     public static void main(String a[])
 	{
@@ -16,7 +16,7 @@ public class ArjunPinpoint
         String str_data = "";
         try 
 		{
-            BufferedReader br = new BufferedReader(new FileReader("ArjunPinpoint.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("ArjKeys.txt"));
             while (strLine != null)
             {
                 if (strLine == null)
